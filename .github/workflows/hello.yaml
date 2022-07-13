@@ -1,6 +1,6 @@
 name: Build
 on:
-  workflow_disaptch:
+  workflow_dispatch:
   push:
     branches:
       - main
